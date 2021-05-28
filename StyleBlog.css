@@ -1,0 +1,43 @@
+body{
+
+	background-color:#F1E8ED;
+	margin: 0 15%;
+	font-family: graphik;
+	text-align: center;
+	font-weight: light;
+	weight: 1280;
+}
+
+header{
+	text-align: center;
+	text-transform: uppercase;
+	border-bottom: 1px solid #DAD2D6;
+}
+
+
+p{
+	text-align: left justify;
+	margin-right: 5px;
+}
+div{
+	
+	with: 200px;
+	height: 200px;
+	border: 2px solid #DAD2D6;
+	margin: 50px;
+	padding:35px;
+	text-align: left;
+}
+.left{
+	float:left;
+	padding-right: 20px;
+}
+p1{
+	text-align: left;
+}
+
+	
+p2{
+	text-align: center;
+ 	border-bottom: 2px solid #DAD2D6;
+}
